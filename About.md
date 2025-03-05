@@ -1,5 +1,5 @@
 # About us
-Lamak is a project development and management company
+nemay is a project development and management company
 # Vision
 Create an effective and sustainable future
 # Mission

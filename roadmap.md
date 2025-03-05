@@ -7,3 +7,5 @@
 ## Brand Guide
 ## I need a logo
 ## Need a Working Structure
+## Marketing strategy
+Focus on just one platform in the start. LinkedIn is an execellent choice.

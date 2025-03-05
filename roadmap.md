@@ -4,7 +4,7 @@
 ## Maybe I should write blogs
 ## Need to find WORK [JOBS]
 ## Tools are also important: Microsoft tools
-Microsoft Design - MODERATE
+Microsoft Design - MODERATE <br>
 Microsoft Word - PROFICIENT
 Microsoft Powerpoint - PROFICIENT
 Microsoft Excel - PROFICIENT

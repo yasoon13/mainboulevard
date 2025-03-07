@@ -1,5 +1,6 @@
 # Where to start?
 ## I don't know...
+Am I product problem solving person (front of house) or systems problem solving person (back of house)
 ## I don't have any leads
 ## Maybe I should write blogs
 ## Need to find WORK [JOBS]

@@ -5,16 +5,18 @@ Am I product problem solving person (front of house) or systems problem solving 
 ## Maybe I should write blogs
 ## Need to find WORK [JOBS]
 ## Tools are also important: Microsoft tools
+Microsoft Word - PROFICIENT <br>
+Microsoft Powerpoint - PROFICIENT <br>
+Microsoft Excel - PROFICIENT <br>
+Microsoft TO-DO - PROFICIENT <br>
+<br>
+Draw.io - MODERATE <br>
 Microsoft Design - MODERATE <br>
-Microsoft Word - PROFICIENT
-Microsoft Powerpoint - PROFICIENT
-Microsoft Excel - PROFICIENT
-Microsoft TO-DO - PROFICIENT
-Microsoft Clipchamp - NOT USED YET
-Project Libre - NOT USED YET
-Draw.io - MODERATE
-Figma - NOT USED YET
-Canva - NOT USED YET
+<br>
+Microsoft Clipchamp - NOT USED YET <br>
+Project Libre - NOT USED YET <br>
+Figma - NOT USED YET <br>
+Canva - NOT USED YET <br>
 ## Brand Guide
 I need a logo. Think about it.
 I need to create a document. Define colors four at least

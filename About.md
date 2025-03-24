@@ -10,7 +10,7 @@ Help people through innovate project design, consistent project development, and
 3. Excellence
 4. Sustainability
 # Areas
-1. Power Sector
-2. Information Technology
-3. Finance
-4. Architecture
+1. Power Sector (project design, development, management, and monitoring)
+2. Information Technology (project design, development, management, and monitoring)
+3. Finance (activist investing)
+4. Architecture (project design, development, management, and monitoring)

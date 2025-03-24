@@ -4,6 +4,7 @@ Am I product problem solving person (front of house) or systems problem solving 
 ## I don't have any leads
 ## Maybe I should write blogs
 project management vs. project success
+case for reading
 ## Need to find WORK [JOBS]
 ## Tools are also important: Microsoft tools
 Microsoft Word - PROFICIENT <br>

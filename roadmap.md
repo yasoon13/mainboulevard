@@ -21,8 +21,11 @@ Project Libre - NOT USED YET <br>
 Figma - NOT USED YET <br>
 Canva - NOT USED YET <br>
 ## Brand Guide
-I need a logo. Think about it.
-I need to create a document. Define colors four at least
+I need a logo. Think about it. <br>
+I need to create a document. Define colors four at least. <br>
+Create brand voice. <br>
+Create brand identity. <br>
+Create content strategy. <br>
 ## Need a Working Structure
 ## Marketing strategy
 Focus on just one platform in the start. LinkedIn is an execellent choice.

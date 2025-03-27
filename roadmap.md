@@ -26,6 +26,9 @@ I need to create a document. Define colors four at least. <br>
 Create brand voice. <br>
 Create brand identity. <br>
 Create content strategy. <br>
+> B2B campaign <br>
+> social media campaign <br>
+> website campaign <br>
 ## Need a Working Structure
 ## Marketing strategy
 Focus on just one platform in the start. LinkedIn is an execellent choice.

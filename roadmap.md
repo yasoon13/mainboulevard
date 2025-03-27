@@ -26,6 +26,7 @@ I need to create a document. Define colors four at least. <br>
 Create brand voice. <br>
 Create brand identity. <br>
 Create content strategy. <br>
+> Direct response <br>
 > B2B campaign <br>
 > social media campaign <br>
 > website campaign <br>

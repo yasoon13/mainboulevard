@@ -27,6 +27,7 @@ Help create better companies
 Investing partnership <br>
 High-risk Equity Investment (Venture capital or Angel investment) <br>
 Financial advisory (IPO, M&A and LBO services) <br>
+Activist Investing <br>
 Asset management <br>
 Wealth management <br>
 Alternate asset management <br>

@@ -14,9 +14,10 @@ Help people through innovate project design, consistent project development, and
 ~1. Power Sector (project design, development, management, and monitoring)~ <br>
 ~2. Information Technology (project design, development, management, and monitoring)~ <br>
 `3. Finance (activist investing)` <br>
+> Company architecture (Company design, development, management, and company performance monitoring)
 > IT <br>
 > Power sector <br>
-4. Architecture (project design, development, management, and monitoring) <br>
+~4. Architecture (project design, development, management, and monitoring)~ <br>
 # It's not finance. It's investment and company development.
 ## Products
 > Company development partnership <br>

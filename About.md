@@ -4,7 +4,7 @@ mainboulevard helps you build great companies.
 # Vision
 Create an effective and sustainable future
 # Mission
-~Help people through innovate project design, consistent project development, and effective project management~
+~Help people through innovate project design, consistent project development, and effective project management~ <br>
 Help create better companies
 # Values
 1. Creativity
@@ -18,6 +18,7 @@ Help create better companies
 > Company architecture (Company design, development, management, and company performance monitoring)
 > IT <br>
 > Power sector <br>
+
 ~4. Architecture (project design, development, management, and monitoring)~ <br>
 # It's not finance. It's investment and company development.
 ## Products

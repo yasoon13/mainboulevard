@@ -8,6 +8,9 @@ Am I product problem solving person (front of house) or systems problem solving 
 project management vs. project success <br>
 case for reading <br>
 sandwich criticism
+## Understand reference companies
+1. Blackstone
+2. Sequoia
 ## Need to find WORK [JOBS]
 ## Tools are also important: Microsoft tools
 Microsoft Word - PROFICIENT <br>

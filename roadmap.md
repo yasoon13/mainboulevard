@@ -1,6 +1,7 @@
 # Where to start?
 ## I don't know...
 Am I product problem solving person (front of house) or systems problem solving person (back of house)
+> BACK OF HOUSE is the answer.
 ## I don't have any leads
 ## Maybe I should write blogs
 project management vs. project success <br>

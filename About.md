@@ -15,7 +15,7 @@ Help create better companies
 ~1. Power Sector (project design, development, management, and monitoring)~ <br>
 ~2. Information Technology (project design, development, management, and monitoring)~ <br>
 `3. Finance (activist investing)` <br>
-> Company architecture (Company design, development, management, and company performance monitoring)
+> Company architecture (Company design, development, management, and company performance monitoring) <br>
 > IT <br>
 > Power sector <br>
 

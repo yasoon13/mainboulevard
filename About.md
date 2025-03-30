@@ -11,18 +11,18 @@ Help people through innovate project design, consistent project development, and
 3. Excellence
 4. Sustainability
 # Areas
-~1. Power Sector (project design, development, management, and monitoring)~
-~2. Information Technology (project design, development, management, and monitoring)~
-`3. Finance (activist investing)`
-> IT
-> Power sector
-4. Architecture (project design, development, management, and monitoring)
+~1. Power Sector (project design, development, management, and monitoring)~ <br>
+~2. Information Technology (project design, development, management, and monitoring)~ <br>
+`3. Finance (activist investing)` <br>
+> IT <br>
+> Power sector <br>
+4. Architecture (project design, development, management, and monitoring) <br>
 # It's not finance. It's investment and company development.
 ## Products
-> Company development partnership
-Investing partnership
-High-risk Equity Investment (Venture capital or Angel investment)
-Financial advisory (IPO, M&A and LBO services)
-Asset management
-Wealth management
-Alternate asset management
+> Company development partnership <br>
+Investing partnership <br>
+High-risk Equity Investment (Venture capital or Angel investment) <br>
+Financial advisory (IPO, M&A and LBO services) <br>
+Asset management <br>
+Wealth management <br>
+Alternate asset management <br>

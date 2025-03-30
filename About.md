@@ -16,8 +16,8 @@ Help create better companies
 ~2. Information Technology (project design, development, management, and monitoring)~ <br>
 `3. Finance (activist investing)` <br>
 > Company architecture (Company design, development, management, and company performance monitoring) <br>
-> IT <br>
-> Power sector <br>
+> IT (AI and Blockchain) <br>
+> clean energy <br>
 
 ~4. Architecture (project design, development, management, and monitoring)~ <br>
 # It's not finance. It's investment and company development.

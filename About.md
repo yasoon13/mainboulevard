@@ -1,10 +1,11 @@
 # About us
 ~nemay is a project development and management company~ <br>
-nemay helps you build great companies.
+mainboulevard helps you build great companies.
 # Vision
 Create an effective and sustainable future
 # Mission
-Help people through innovate project design, consistent project development, and effective project management
+~Help people through innovate project design, consistent project development, and effective project management~
+Help create better companies
 # Values
 1. Creativity
 2. Respect
@@ -21,6 +22,7 @@ Help people through innovate project design, consistent project development, and
 # It's not finance. It's investment and company development.
 ## Products
 > Company development partnership
+
 Investing partnership <br>
 High-risk Equity Investment (Venture capital or Angel investment) <br>
 Financial advisory (IPO, M&A and LBO services) <br>

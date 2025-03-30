@@ -2,6 +2,7 @@
 ## I don't know...
 Am I product problem solving person (front of house) or systems problem solving person (back of house)
 > BACK OF HOUSE is the answer.
+
 ## I don't have any leads
 ## Maybe I should write blogs
 project management vs. project success <br>
@@ -32,8 +33,15 @@ Create content strategy. <br>
 > social media campaign <br>
 > website campaign <br>
 ## Need a Working Structure
+`Anaylst aka Chief Executive Officer` <br>
+`Operator aka Chief Operating Officer` <br>
+`Builder aka Chief Product Officer` <br>
+`Seller aka Chief Sales Officer` <br>
+`Storyteller aka Chief Marketing Officer` <br>
 ## Marketing strategy
-Focus on just one platform in the start. LinkedIn is an execellent choice.
-Also I need an email address. Can I go for an alias?
-Need to buy a domain
+Focus on just one platform in the start. LinkedIn is an execellent choice. <br>
+Whatsapp groups is also a good option <br>
+Reach out to IT events <br>
+Also I need an email address. Can I go for an alias? <br>
+Need to buy a domain <br>
 ## Documentation management

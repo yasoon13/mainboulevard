@@ -49,6 +49,6 @@ Reach out to IT events <br>
 Also I need an email address. Can I go for an alias? <br>
 Need to buy a domain <br>
 ## Documentation management
-# FINAL ACTION
+# Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.

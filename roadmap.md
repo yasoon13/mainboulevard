@@ -10,10 +10,15 @@ Am I product problem solving person (front of house) or systems problem solving 
 ### PEOPLE WILL COME TO YOU WHEN THEY TRUST YOU AND YOUR PRODUCT.
 ## Show the world that you're the expert. Get knowledge from
 1. Investment
-`CFI blogs`
-2. Project management
+`CFI blogs` <br>
+[Crunchbase](https://www.crunchbase.com) <br>
+[TechCrunch Funding Section](https://techcrunch.com/category/startups/) <br>
+[Pitchbook](https://pitchbook.com) <br>
+[CB Insights](https://www.cbinsights.com) <br>
+[Bloomberg](https://www.bloomberg.com) <br>
+3. Project management
 `PMI blogs and reports`
-3. IT
+4. IT
 `FIND-A-GOOD-IT-WEBSITE` <br>
 [Hacker News - YCombinator](https://news.ycombinator.com) <br>
 [Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow) <br>

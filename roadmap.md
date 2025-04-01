@@ -57,6 +57,7 @@ Process: <br>
 Output: <br>
 Resources: <br>
 How value be generated: <br>
+<br>
 -----x-----x-----x-----END OF SECTION-----x-----x-----x----- 
 # Final Action
 ## Step 1

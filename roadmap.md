@@ -15,8 +15,10 @@ Am I product problem solving person (front of house) or systems problem solving 
 `PMI blogs and reports`
 3. IT
 `FIND-A-GOOD-IT-WEBSITE` <br>
-[Hacker News - YCombinator](https://news.ycombinator.com)
-[Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow)
+[Hacker News - YCombinator](https://news.ycombinator.com) <br>
+[Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow) <br>
+[TechCrunch](https://techcrunch.com) <br>
+[The Verge](https://www.theverge.com)
 5. Energy
 `IRENA publications`
 6. Pakistan

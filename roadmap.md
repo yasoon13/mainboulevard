@@ -3,6 +3,9 @@
 Am I product problem solving person (front of house) or systems problem solving person (back of house)
 > BACK OF HOUSE is the answer.
 
+## What are you bringing on the table
+Project management expertise (being the bridger among stakeholders - sum is bigger than individual parts) <br>
+Investment knowledge expertise ()
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT
 ## Maybe I should write blogs

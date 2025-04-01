@@ -4,8 +4,9 @@ Am I product problem solving person (front of house) or systems problem solving 
 > BACK OF HOUSE is the answer.
 
 ## What are you bringing on the table
-Project management expertise (being the bridger among stakeholders - sum is bigger than individual parts) <br>
-Investment knowledge expertise ()
+1. Project management expertise (being the bridger among stakeholders - sum is bigger than individual parts) <br>
+2. Investment knowledge expertise (use Sarmaaya and FMVA knowledge) <br>
+3. Analysis and Problem solving (via engineering background) <br>
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT
 ## Maybe I should write blogs

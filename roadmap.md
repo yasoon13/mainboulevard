@@ -16,9 +16,10 @@ Am I product problem solving person (front of house) or systems problem solving 
 3. IT
 `FIND-A-GOOD-IT-WEBSITE` <br>
 [Hacker News - YCombinator](https://news.ycombinator.com)
-4. Energy
+[Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow)
+5. Energy
 `IRENA publications`
-5. Pakistan
+6. Pakistan
 `DAWN` `Business Recorder` `NEPRA website` `P@SHA website` `SCEP website`
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT

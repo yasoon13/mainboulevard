@@ -14,7 +14,8 @@ Am I product problem solving person (front of house) or systems problem solving 
 2. Project management
 `PMI blogs and reports`
 3. IT
-`FIND-A-GOOD-IT-WEBSITE`
+`FIND-A-GOOD-IT-WEBSITE` <br>
+[Hacker News - YCombinator](https://news.ycombinator.com)
 4. Energy
 `IRENA publications`
 5. Pakistan

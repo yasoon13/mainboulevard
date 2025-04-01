@@ -7,6 +7,9 @@ Am I product problem solving person (front of house) or systems problem solving 
 1. Project management expertise (being the bridger among stakeholders - sum is bigger than individual parts) <br>
 2. Investment knowledge expertise (use Sarmaaya and FMVA knowledge) <br>
 3. Analysis and Problem solving (via engineering background) <br>
+
+### PEOPLE WILL COME TO YOU WHEN THEY TRUST YOU AND YOUR PRODUCT.
+
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT
 ## Maybe I should write blogs

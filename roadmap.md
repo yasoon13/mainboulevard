@@ -52,12 +52,12 @@ Need to buy a domain <br>
 ## Documentation management
 ## Business model
 ### Company development services
-Input: 
-Process:
-Output: 
-Resources: 
-How value be generated: 
------x-----x-----x-----x-----x-----x-----x----- 
+Input: <br>
+Process: <br>
+Output: <br>
+Resources: <br>
+How value be generated: <br>
+-----x-----x-----x-----END OF SECTION-----x-----x-----x----- 
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.

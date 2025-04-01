@@ -18,8 +18,8 @@ Am I product problem solving person (front of house) or systems problem solving 
 [Bloomberg](https://www.bloomberg.com) <br>
 [Bloomberg Technology - YouTube Channel](https://www.youtube.com/@BloombergTechnology) <br>
 [Equity Podcast by TechCrunch - YouTube Channel](https://www.youtube.com/playlist?list=PLHRxVckaE8daX2Uk7hU67IXaruzq2DaRc) <br>
-[The Motley Fool - YouTube Channel](https://www.youtube.com/@MotleyFool/featured)
-[Invest like the Best - YouTube Channel](https://www.youtube.com/@ILTB_Podcast/featured)
+[The Motley Fool - YouTube Channel](https://www.youtube.com/@MotleyFool/featured) <br>
+[Invest like the Best - YouTube Channel](https://www.youtube.com/@ILTB_Podcast/featured) <br>
 3. Project management
 `PMI blogs and reports`
 4. IT
@@ -28,7 +28,7 @@ Am I product problem solving person (front of house) or systems problem solving 
 [Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow) <br>
 [TechCrunch](https://techcrunch.com) <br>
 [The Verge](https://www.theverge.com) <br>
-[TechAltar - YouTube Channel](https://www.youtube.com/@TechAltar/featured)
+[TechAltar - YouTube Channel](https://www.youtube.com/@TechAltar/featured) <br>
 6. Energy
 `IRENA publications`
 7. Pakistan

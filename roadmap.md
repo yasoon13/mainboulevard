@@ -51,8 +51,13 @@ Also I need an email address. Can I go for an alias? <br>
 Need to buy a domain <br>
 ## Documentation management
 ## Business model
-# Company development services
------*-----*-----*-----*-----*-----*-----*----- 
+### Company development services
+Input: 
+Process:
+Output: 
+Resources: 
+How value be generated: 
+-----x-----x-----x-----x-----x-----x-----x----- 
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.

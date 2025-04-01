@@ -10,7 +10,7 @@ Am I product problem solving person (front of house) or systems problem solving 
 ### PEOPLE WILL COME TO YOU WHEN THEY TRUST YOU AND YOUR PRODUCT.
 ## Show the world that you're the expert. Get knowledge from
 1. Investment
-`CFI blogs` ``  
+`CFI blogs`
 2. Project management
 `PMI blogs and reports`
 3. IT

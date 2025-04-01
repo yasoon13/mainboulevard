@@ -14,6 +14,8 @@ Am I product problem solving person (front of house) or systems problem solving 
 [Crunchbase](https://www.crunchbase.com) <br>
 [TechCrunch Funding Section](https://techcrunch.com/category/startups/) <br>
 [Pitchbook](https://pitchbook.com) <br>
+[Morning Brew](https://www.morningbrew.com) <br>
+[Finimize](https://finimize.com) <br>
 [CB Insights](https://www.cbinsights.com) <br>
 [Bloomberg](https://www.bloomberg.com) <br>
 [Bloomberg Technology - YouTube Channel](https://www.youtube.com/@BloombergTechnology) <br>

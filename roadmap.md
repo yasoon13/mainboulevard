@@ -16,6 +16,10 @@ Am I product problem solving person (front of house) or systems problem solving 
 [Pitchbook](https://pitchbook.com) <br>
 [CB Insights](https://www.cbinsights.com) <br>
 [Bloomberg](https://www.bloomberg.com) <br>
+[Bloomberg Technology - YouTube Channel](https://www.youtube.com/@BloombergTechnology) <br>
+[Equity Podcast by TechCrunch - YouTube Channel](https://www.youtube.com/playlist?list=PLHRxVckaE8daX2Uk7hU67IXaruzq2DaRc) <br>
+[The Motley Fool - YouTube Channel](https://www.youtube.com/@MotleyFool/featured)
+[Invest like the Best - YouTube Channel](https://www.youtube.com/@ILTB_Podcast/featured)
 3. Project management
 `PMI blogs and reports`
 4. IT
@@ -23,10 +27,11 @@ Am I product problem solving person (front of house) or systems problem solving 
 [Hacker News - YCombinator](https://news.ycombinator.com) <br>
 [Daily Tech News Show - YouTube Channel](https://www.youtube.com/@dailytechnewsshow) <br>
 [TechCrunch](https://techcrunch.com) <br>
-[The Verge](https://www.theverge.com)
-5. Energy
+[The Verge](https://www.theverge.com) <br>
+[TechAltar - YouTube Channel](https://www.youtube.com/@TechAltar/featured)
+6. Energy
 `IRENA publications`
-6. Pakistan
+7. Pakistan
 `DAWN` `Business Recorder` `NEPRA website` `P@SHA website` `SCEP website`
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT

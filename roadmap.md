@@ -4,6 +4,7 @@ Am I product problem solving person (front of house) or systems problem solving 
 > BACK OF HOUSE is the answer.
 
 ## I don't have any leads
+Always find the oppotunity that could be the TURNING POINT
 ## Maybe I should write blogs
 project management vs. project success <br>
 case for reading <br>
@@ -49,6 +50,9 @@ Reach out to IT events <br>
 Also I need an email address. Can I go for an alias? <br>
 Need to buy a domain <br>
 ## Documentation management
+## Business model
+# Company development services
+-----*-----*-----*-----*-----*-----*-----*----- 
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.

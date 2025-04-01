@@ -51,7 +51,7 @@ Also I need an email address. Can I go for an alias? <br>
 Need to buy a domain <br>
 ## Documentation management
 ## Business model
-### Company development services
+### Company development partnership
 Input: <br>
 Process: <br>
 Output: <br>

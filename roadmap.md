@@ -101,7 +101,8 @@ How value be generated: <br>
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.
-2. Create website without domain.
+2. Creat logo
+3. Create website without domain.
 ## Step 2
 Buildup `Create presence` and then Breakthrough `Offer products and solutions`
 ### Buildup

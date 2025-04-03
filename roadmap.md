@@ -99,3 +99,7 @@ How value be generated: <br>
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.
+## Step 2
+Buildup and then Breakthrough
+Buildup - `Create presence`
+Breakthrough - `Offer products and solutions`

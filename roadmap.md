@@ -35,6 +35,8 @@ Am I product problem solving person (front of house) or systems problem solving 
 `IRENA publications`
 7. Pakistan
 `DAWN` `Business Recorder` `NEPRA website` `P@SHA website` `SCEP website`
+8. Develop Technical expertise
+`Financial Modeling` `LBO` `M&A`
 ## I don't have any leads
 Always find the oppotunity that could be the TURNING POINT
 ## Maybe I should write blogs
@@ -99,5 +101,10 @@ How value be generated: <br>
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.
+2. Create website without domain.
 ## Step 2
 Buildup `Create presence` and then Breakthrough `Offer products and solutions`
+### Buildup
+1. Articles
+2. Tutorials
+3. Templates

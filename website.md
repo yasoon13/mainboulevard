@@ -5,7 +5,7 @@ professional, excellence, luxury brand, and bespoke product offering.
 [Blackstone](https://www.blackstone.com/) <br>
 [ARUP](https://www.arup.com/)
 ## Font
-Book Antiqua
+Book Antiqua <br>
 Segoe UI light
 ## Top sections of the website
 1. About

@@ -74,6 +74,7 @@ Create content strategy. <br>
 ## Need a Working Structure
 `Anaylst aka Chief Executive Officer` <br>
 `Operator aka Chief Operating Officer` <br>
+Make offices decentralized in planning and execution, but centralized in compliance.
 `Builder aka Chief Product Officer` <br>
 `Seller aka Chief Sales Officer` <br>
 `Storyteller aka Chief Marketing Officer` <br>

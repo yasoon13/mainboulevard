@@ -3,6 +3,7 @@
 Am I product problem solving person (front of house) or systems problem solving person (back of house)
 > BACK OF HOUSE is the answer.
 
+## What's your competitive edge?
 ## What are you bringing on the table
 1. Project management expertise (being the bridger among stakeholders - sum is bigger than individual parts) <br>
 2. Investment knowledge expertise (use Sarmaaya and FMVA knowledge) <br>

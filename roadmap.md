@@ -75,6 +75,7 @@ Create content strategy. <br>
 `Anaylst aka Chief Executive Officer` <br>
 `Operator aka Chief Operating Officer` <br>
 Make offices decentralized in planning and execution, but centralized in compliance. <br>
+Create a culture where opposite types can thrive and work cooperatively <br>
 `Builder aka Chief Product Officer` <br>
 `Seller aka Chief Sales Officer` <br>
 `Storyteller aka Chief Marketing Officer` <br>

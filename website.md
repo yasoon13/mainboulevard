@@ -2,8 +2,8 @@
 ## Final outcome expectations
 professional, excellence, and bespoke product offering.
 ## References
-https://www.blackstone.com/
-https://www.arup.com/
+[Blackstone](https://www.blackstone.com/) <br>
+[ARUP](https://www.arup.com/)
 ## Top sections of the website
 1. Markets
 2. Services

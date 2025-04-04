@@ -5,8 +5,14 @@ professional, excellence, luxury brand, and bespoke product offering.
 [Blackstone](https://www.blackstone.com/) <br>
 [ARUP](https://www.arup.com/)
 ## Font
-Book Antiqua <br>
-Segoe UI light
+Heading 1: Book Antiqua <br>
+Heading 2: Segoe UI <br>
+Text: Segoe UI light
+## Color scheme
+Primary color: Black
+Secondary color: White
+Accent color 1: Gray
+Accent color 2: Gold
 ## Top sections of the website
 1. About
 2. Services

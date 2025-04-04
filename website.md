@@ -12,8 +12,8 @@ Segoe UI light
 2. Services
 3. Projects
 4. Blog
-5. Markets
-6. Careers
-7. News
+5. Markets `to be added in later phase`
+6. Careers `to be added in later phase`
+7. News `to be added in later phase`
 8. Contact
 ## Heading sections

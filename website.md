@@ -1,6 +1,6 @@
 # Design and layout of a website
 ## Final outcome expectations
-professional, excellence, and bespoke product offering.
+professional, excellence, luxury brand, and bespoke product offering.
 ## References
 [Blackstone](https://www.blackstone.com/) <br>
 [ARUP](https://www.arup.com/)

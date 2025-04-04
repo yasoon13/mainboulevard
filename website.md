@@ -9,13 +9,13 @@ Heading 1: Book Antiqua <br>
 Heading 2: Segoe UI <br>
 Text: Segoe UI light
 ## Color scheme
-Primary color: Night (090C09)
-Secondary color: White (FFFFFF)
-Accent color 1: Cool Gray (808A9F)
-Accent color 2: Carmine (A30015)
-Accent color 3: Antique white (FEEFDD)
-Accent color 4: Onyx (343E3D)
-Accent color 5: Coffee (704E2E)
+Primary color: Night (090C09) <br>
+Secondary color: White (FFFFFF) <br>
+Accent color 1: Cool Gray (808A9F) <br>
+Accent color 2: Carmine (A30015) <br>
+Accent color 3: Antique white (FEEFDD) <br>
+Accent color 4: Onyx (343E3D) <br>
+Accent color 5: Coffee (704E2E) <br>
 ## Top sections of the website
 1. About
 2. Services

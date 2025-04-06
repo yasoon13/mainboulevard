@@ -105,7 +105,7 @@ How value be generated: <br>
 2. Get clients
 3. Get investors
 4. Get co-founders
-5. Always in search of good HR
+5. Always in search of good HR <br>
 -----x-----x-----x-----END OF SECTION-----x-----x-----x-----
 # Final Action
 ## Step 1

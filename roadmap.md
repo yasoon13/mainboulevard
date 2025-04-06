@@ -107,7 +107,7 @@ How value be generated: <br>
 4. Get co-founders
 5. Always in search of good HR
 <br>
------x-----x-----x-----END OF SECTION-----x-----x-----x----- 
+-----x-----x-----x-----END OF SECTION-----x-----x-----x----- <br>
 # Final Action
 ## Step 1
 1. Create a outlook email account `completed` and gmail account.

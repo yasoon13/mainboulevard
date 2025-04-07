@@ -106,6 +106,15 @@ How value be generated: <br>
 3. Get investors
 4. Get co-founders
 5. Always in search of good HR <br>
+## Time management
+`Technical faculties` `economic faculties` `organizational development` `founder development`
+### Weekdays
+Morning - write blogs <br>
+Evening - read <br>
+### Weekend
+Morning - [x] <br>
+Evening - learn and develop models M&A, LBO, and finance and business templates <br>
+<br>
 -----x-----x-----x-----END OF SECTION-----x-----x-----x-----
 # Final Action
 ## Step 1

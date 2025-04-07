@@ -22,7 +22,7 @@ make companies better
 > clean energy <br>
 
 ~4. Architecture (project design, development, management, and monitoring)~ <br>
-# It's not finance. It's investment and company development.
+# It's not finance. It's development and investment company.
 ## Products
 > Company development partnership
 

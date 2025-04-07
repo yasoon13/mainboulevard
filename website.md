@@ -6,8 +6,8 @@ professional, excellence, luxury brand, and bespoke product offering.
 [ARUP](https://www.arup.com/)
 ## Font
 Heading 1: Book Antiqua (Libre Baskerville - Google Fonts) <br>
-Heading 2: Segoe UI (Roboto) <br>
-Text: Segoe UI light (Roboto)
+Heading 2: Segoe UI (Roboto - Google Fonts) <br>
+Text: Segoe UI light (Roboto - Google Fonts)
 ## Color scheme
 Primary color: Night (090C09) <br>
 Secondary color: White (FFFFFF) <br>

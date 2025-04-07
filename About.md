@@ -6,6 +6,8 @@ Create an effective and sustainable future
 # Mission
 ~Help people through innovate project design, consistent project development, and effective project management~ <br>
 Help create better companies
+# Tagline
+make companies better
 # Values
 1. Creativity
 2. Respect

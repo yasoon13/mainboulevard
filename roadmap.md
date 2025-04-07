@@ -85,7 +85,7 @@ Focus on just one platform in the start. LinkedIn is an execellent choice. <br>
 Whatsapp groups is also a good option <br>
 Reach out to IT events <br>
 ~Also I need an email address. Can I go for an alias? <br>~
-Need to buy a domain <br>
+~Need to buy a domain <br>~
 ### Social Media Presence
 1. LinkedIn <br>
 2. YouTube - Need gmail account <br>

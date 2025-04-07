@@ -7,7 +7,7 @@ Create an effective and sustainable future
 ~Help people through innovate project design, consistent project development, and effective project management~ <br>
 Help create better companies
 # Tagline
-make companies better
+make companies great
 # Values
 1. Excellence
 2. Creativity

@@ -9,9 +9,10 @@ Help create better companies
 # Tagline
 make companies better
 # Values
-1. Creativity
-2. Respect
-3. Excellence
+1. Excellence
+2. Creativity
+3. Respect
+~3. Excellence~
 4. Sustainability
 # Areas
 ~1. Power Sector (project design, development, management, and monitoring)~ <br>

@@ -5,9 +5,9 @@ professional, excellence, luxury brand, and bespoke product offering.
 [Blackstone](https://www.blackstone.com/) <br>
 [ARUP](https://www.arup.com/)
 ## Font
-Heading 1: Book Antiqua <br>
-Heading 2: Segoe UI <br>
-Text: Segoe UI light
+Heading 1: Book Antiqua (Libre Baskerville - Google Fonts) <br>
+Heading 2: Segoe UI (Roboto) <br>
+Text: Segoe UI light (Roboto)
 ## Color scheme
 Primary color: Night (090C09) <br>
 Secondary color: White (FFFFFF) <br>

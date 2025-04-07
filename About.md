@@ -25,7 +25,7 @@ make companies better
 ~4. Architecture (project design, development, management, and monitoring)~ <br>
 # It's not finance. It's development and investment company.
 ## Products
-> Company development partnership
+> Company development partnership - business model services, financial modeling services
 
 Investing partnership <br>
 High-risk Equity Investment (Venture capital or Angel investment) <br>

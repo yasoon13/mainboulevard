@@ -85,6 +85,9 @@ Create a culture where opposite types can thrive and work cooperatively <br>
 Focus on just one platform in the start. LinkedIn is an execellent choice. <br>
 Whatsapp groups is also a good option <br>
 Reach out to IT events <br>
+<br>
+DEFINE A MINIMUM VIABLE AUDIENCE <br>
+<br>
 ~Also I need an email address. Can I go for an alias? <br>~
 ~Need to buy a domain <br>~
 ### Social Media Presence

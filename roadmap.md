@@ -9,6 +9,7 @@ Am I product problem solving person (front of house) or systems problem solving 
 2. Investment knowledge expertise (use Sarmaaya and FMVA knowledge) <br>
 3. Analysis and Problem solving (via engineering background) <br>
 ### <ins>PEOPLE WILL COME TO YOU WHEN THEY TRUST YOU AND YOUR PRODUCT</ins>
+### <ins>BECOME AN INTERESTING PERSON</ins>
 Research from the Hay Group finds that highly engaged employees are, on average, 50% more likely to exceed expectations than the least-engaged workers. And companies with highly engaged people outperform firms with the most disengaged folks—by 54% in employee retention, by 89% in customer satisfaction, and by fourfold in revenue growth.
 ## Show the world that you're the expert. Get knowledge from
 1. Investment

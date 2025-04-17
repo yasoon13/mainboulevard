@@ -131,6 +131,9 @@ Buildup `Create presence` and then Breakthrough `Offer products and solutions`
 ### Creat presence [FOCUS]
 Financial modelling (3-statement model, Project finance model, and Discounted Cash Flow (DCF) model)
 Excel for founders and business owners
+- Start with YouTube.
+- Websites.
+- Books
 ### Buildup
 1. Articles
 2. Tutorials

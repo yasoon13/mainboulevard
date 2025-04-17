@@ -128,6 +128,9 @@ Evening - learn and develop models M&A, LBO, and finance and business templates 
 ### [mainboulevard.org](https://mainboulevard.org/) is now LIVE.
 ## Step 2
 Buildup `Create presence` and then Breakthrough `Offer products and solutions`
+### Creat presence [FOCUS]
+Financial modelling (3-statement model, Project finance model, and Discounted Cash Flow (DCF) model)
+Excel for founders and business owners
 ### Buildup
 1. Articles
 2. Tutorials

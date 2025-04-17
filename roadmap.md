@@ -129,7 +129,7 @@ Evening - learn and develop models M&A, LBO, and finance and business templates 
 ## Step 2
 Buildup `Create presence` and then Breakthrough `Offer products and solutions`
 ### Creat presence [FOCUS]
-Financial modelling (3-statement model, Project finance model, and Discounted Cash Flow (DCF) model)
+Financial modelling (3-statement model, Project finance/capitak investment model, and Discounted Cash Flow (DCF) model)
 Excel for founders and business owners
 - Start with YouTube.
 - Websites.

@@ -7,12 +7,12 @@
 - Build your company around a core ideology
 - The fundamental are more important than ever
 ## Michael D. Watkins - [Six disciplines of strategic thinking](https://www.youtube.com/watch?v=hItU33fFNGw)
-- Pattern recognition 
-- system analysis, 
-- mental agility, 
-- structured problem-solving,
-- visioning, 
-- political savvy.
+- Pattern recognition
+- system analysis
+- mental agility
+- structured problem-solving
+- visioning
+- political savvy
 ## Mark Manson - [Five productivity principles](https://www.youtube.com/watch?v=hw2clzJWdV0)
 - Work with your biology, not against it.
 - Find the minimal viable action.

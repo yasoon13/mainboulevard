@@ -36,4 +36,4 @@ Business model development for startups
 Pitch deck development for startups
 ### Projects
 ### Contact
-A box with just name, message, and email.
+A box with just name, and email. Our person will contact them.

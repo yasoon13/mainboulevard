@@ -31,9 +31,9 @@ Accent color 7: Peach (FFC49B) `FINAL`<br>
 ### Home
 ### About
 ### Services
-Financial model (buiness operations and capital investment) for startups
-Business model development for startups
-Pitch deck development for startups
+Financial model (buiness operations and capital investment) for startups <br>
+Business model development for startups <br>
+Pitch deck development for startups <br>
 ### Projects
 ### Contact
 A box with just name, and email. Our person will contact them.

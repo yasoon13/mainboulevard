@@ -76,6 +76,7 @@ Create content strategy. <br>
 > B2B campaign <br>
 > social media campaign <br>
 > website campaign <br>
+
 ## Need a Working Structure
 `Anaylst aka Chief Executive Officer` <br>
 `Operator aka Chief Operating Officer` <br>
@@ -84,6 +85,7 @@ Create a culture where opposite types can thrive and work cooperatively <br>
 `Builder aka Chief Product Officer` <br>
 `Seller aka Chief Sales Officer` <br>
 `Storyteller aka Chief Marketing Officer` <br>
+
 ## Marketing strategy
 Focus on just one platform in the start. LinkedIn is an execellent choice. <br>
 Whatsapp groups is also a good option <br>
@@ -93,11 +95,12 @@ DEFINE A MINIMUM VIABLE AUDIENCE <br>
 <br>
 ~Also I need an email address. Can I go for an alias? <br>~
 ~Need to buy a domain <br>~
-
 ### Landing pages
 [ConvertKit](https://kit.com/?gad_source=1) <br>
 [GetResponse](https://www.getresponse.com/?v=a&gclid=EAIaIQobChMI7oKxuJfwjAMVsR6DAx1uPAL6EAAYASAAEgI4F_D_BwE&gbraid=0AAAAA-4xYLAfmZal9aYonVWB6MkzsttgK&gad_campaignid=22250673503&gad_source=1&ab=jMfwrWmQeQ) <br>
 [Landingi](https://landingi.com/?utm_medium=affiliate&utm_content=wqoxyoi4ol1662&utm_campaign=15%25&pscd=try.landingi.com&ps_partner_key=d3FveHlvaTRvbDE2NjI&sid=1-g-EAIaIQobChMIxrbcgpjwjAMVwqVmAh1EUS1wEAAYASAAEgJz_PD_BwE&gad_source=1&gad_campaignid=946925448&gbraid=0AAAAADxkih7xqW8MLeuRjJ65Syf1B3d07&gclid=EAIaIQobChMIxrbcgpjwjAMVwqVmAh1EUS1wEAAYASAAEgJz_PD_BwE&ps_xid=Ti9UzjVqkXhEp3&gsxid=Ti9UzjVqkXhEp3&gspk=d3FveHlvaTRvbDE2NjI)
+[Unbounce](https://unbounce.com/?vwo_exp=1000_C)
+[Leadpages](https://www.leadpages.com/?affiliate=partnerstack&utm_source=affiliate-bz&pscd=try.leadpages.com&ps_partner_key=YW5nZWxhYmFsZHdpbjI2MzU&ps_xid=5iRF1OSEuVO0sd&gsxid=5iRF1OSEuVO0sd&gspk=YW5nZWxhYmFsZHdpbjI2MzU&gad_source=1&gad_campaignid=21424065349&gbraid=0AAAAA94wJIy3oS1gNYFyWDgNszvjN_yA6&gclid=EAIaIQobChMIqaOuhZnwjAMVx6RmAh1x1BV_EAAYASAAEgIvUfD_BwE)
 ### Social Media Presence
 1. LinkedIn <br>
 2. YouTube - Need gmail account <br>

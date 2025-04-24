@@ -22,7 +22,7 @@ Accent color 7: Peach (FFC49B) <br>
 1. About
 2. Services
 3. Projects
-4. Blog
+4. Blog `to be added in later phase`
 5. Markets `to be added in later phase`
 6. Careers `to be added in later phase`
 7. News `to be added in later phase`

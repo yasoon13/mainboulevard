@@ -115,12 +115,12 @@ How value be generated: <br>
 5. Always in search of good HR <br>
 ## Time management
 `Technical faculties` `economic faculties` `organizational development` `founder development`
-### Weekdays
-Morning - write blogs <br>
-Evening - read <br>
-### Weekend
-Morning - [x] <br>
-Evening - learn and develop models M&A, LBO, and finance and business templates <br>
+~ ### Weekdays ~
+~ Morning - write blogs ~ <br>
+~ Evening - read ~ <br>
+~ ### Weekend ~
+~ Morning - [x] ~ <br>
+~ Evening - learn and develop models M&A, LBO, and finance and business templates ~ <br>
 <br>
 -----x-----x-----x-----END OF SECTION-----x-----x-----x-----
 # Final Action
@@ -138,6 +138,8 @@ Excel for founders and business owners
 - Websites.
 - Books
 ### Buildup
-1. Articles
-2. Tutorials
-3. Templates
+1. Projects
+2. Templates
+~ 1. Articles ~
+~ 2. Tutorials ~
+~ 3. Templates ~

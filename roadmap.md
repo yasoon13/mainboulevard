@@ -93,6 +93,11 @@ DEFINE A MINIMUM VIABLE AUDIENCE <br>
 <br>
 ~Also I need an email address. Can I go for an alias? <br>~
 ~Need to buy a domain <br>~
+
+### Landing pages
+[ConvertKit](https://kit.com/?gad_source=1) <br>
+[GetResponse](https://www.getresponse.com/?v=a&gclid=EAIaIQobChMI7oKxuJfwjAMVsR6DAx1uPAL6EAAYASAAEgI4F_D_BwE&gbraid=0AAAAA-4xYLAfmZal9aYonVWB6MkzsttgK&gad_campaignid=22250673503&gad_source=1&ab=jMfwrWmQeQ) <br>
+[Landingi](https://landingi.com/?utm_medium=affiliate&utm_content=wqoxyoi4ol1662&utm_campaign=15%25&pscd=try.landingi.com&ps_partner_key=d3FveHlvaTRvbDE2NjI&sid=1-g-EAIaIQobChMIxrbcgpjwjAMVwqVmAh1EUS1wEAAYASAAEgJz_PD_BwE&gad_source=1&gad_campaignid=946925448&gbraid=0AAAAADxkih7xqW8MLeuRjJ65Syf1B3d07&gclid=EAIaIQobChMIxrbcgpjwjAMVwqVmAh1EUS1wEAAYASAAEgJz_PD_BwE&ps_xid=Ti9UzjVqkXhEp3&gsxid=Ti9UzjVqkXhEp3&gspk=d3FveHlvaTRvbDE2NjI)
 ### Social Media Presence
 1. LinkedIn <br>
 2. YouTube - Need gmail account <br>

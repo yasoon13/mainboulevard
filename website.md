@@ -28,6 +28,12 @@ Accent color 7: Peach (FFC49B) `FINAL`<br>
 7. News `to be added in later phase`
 8. Contact
 ## Heading sections
+### Home
 ### About
 ### Services
+Financial model (buiness operations and capital investment) for startups
+Business model development for startups
+Pitch deck development for startups
 ### Projects
+### Contact
+A box with just name, message, and email.

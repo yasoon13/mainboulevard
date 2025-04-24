@@ -12,12 +12,12 @@ Text: Segoe UI light (Roboto - Google Fonts)
 Primary color: Night (090C09) <br>
 Secondary color: White (FFFFFF) <br>
 Accent color 1: Cool Gray (808A9F) <br>
-Accent color 2: Carmine (A30015) <br>
+Accent color 2: Carmine (A30015) `FINAL`<br>
 Accent color 3: Antique white (FEEFDD) <br>
-Accent color 4: Onyx (343E3D) <br>
+Accent color 4: Onyx (343E3D) `FINAL`<br>
 Accent color 5: Coffee (704E2E) <br>
-Accent color 6: Old gold (E2C044) <br>
-Accent color 7: Peach (FFC49B) <br>
+Accent color 6: Old gold (E2C044) `FINAL`<br>
+Accent color 7: Peach (FFC49B) `FINAL`<br>
 ## Top sections of the website
 1. About
 2. Services

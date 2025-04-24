@@ -28,3 +28,6 @@ Accent color 7: Peach (FFC49B) <br>
 7. News `to be added in later phase`
 8. Contact
 ## Heading sections
+### About
+### Services
+### Projects

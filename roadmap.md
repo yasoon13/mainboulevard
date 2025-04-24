@@ -132,14 +132,14 @@ How value be generated: <br>
 ## Step 2
 Buildup `Create presence` and then Breakthrough `Offer products and solutions`
 ### Creat presence [FOCUS]
-Financial modelling (3-statement model, Project finance/capitak investment model, and Discounted Cash Flow (DCF) model)
+Financial modelling (3-statement model, Project finance/capital investment model, and Discounted Cash Flow (DCF) model)
 Excel for founders and business owners
 - Start with YouTube.
 - Websites.
 - Books
 ### Buildup
 1. Projects
-2. Templates
-~ 1. Articles ~
-~ 2. Tutorials ~
-~ 3. Templates ~
+2. Templates <br>
+~1. Articles~ <br>
+~2. Tutorials~ <br>
+~3. Templates~ <br>

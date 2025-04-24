@@ -115,10 +115,10 @@ How value be generated: <br>
 5. Always in search of good HR <br>
 ## Time management
 `Technical faculties` `economic faculties` `organizational development` `founder development`
-~### Weekdays~
+### ~Weekdays~
 ~Morning - write blogs~ <br>
 ~Evening - read~ <br>
-~### Weekend~
+### ~Weekend~
 ~Morning - [x]~ <br>
 ~Evening - learn and develop models M&A, LBO, and finance and business templates~ <br>
 <br>

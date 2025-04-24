@@ -139,7 +139,8 @@ Excel for founders and business owners
 - Books
 ### Buildup
 1. Projects
-2. Templates <br>
+2. Templates `MB Std one Worksheet template` `MB Std multiple Worksheets template` <br>
 ~1. Articles~ <br>
 ~2. Tutorials~ <br>
 ~3. Templates~ <br>
+

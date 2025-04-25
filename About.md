@@ -8,6 +8,8 @@ Create an effective and sustainable future
 Help create better companies
 # Tagline
 make companies great
+## What does your product do?
+## What problem does it solve?
 # Values
 1. Excellence
 2. Creativity

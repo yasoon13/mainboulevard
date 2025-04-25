@@ -5,3 +5,10 @@ Gross merchandise value (GMV) is the total value of merchandise that's sold over
 ### Transaction processing value
 See Gross merchandise value.
 ### Year-on-year
+### Angel Investor
+### Average Revenue per User (ARPU)
+### Aqui Hired
+### Aquisition
+### Alpha Testing
+### Beta Testing
+### Bootstrap

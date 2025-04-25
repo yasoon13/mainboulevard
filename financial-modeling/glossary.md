@@ -16,6 +16,7 @@ Amount of money you lose every month
 ### Churn
 What percentage of customer are you losing?
 ### Cliff
+### Click Through Ratio
 ### Conversion Funnel
 What steps that a customer go through to become a paying customer
 ### Convertible Note

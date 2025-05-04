@@ -31,8 +31,10 @@ Accent color 7: Peach (FFC49B) `FINAL`<br>
 7. News `to be added in later phase`
 8. Contact
 ## Taglines that capture audience
-mainboulevard helps build the company you always wanted
-
+mainboulevard helps build lengendary companies. <br>
+Creating a company is determination and building it is a skill. <br>
+mainboulevard brings structure. Structure brings predictability. Predictability brings investor confidence. <br>
+Build your company like a pro with mainboulevard.
 ## Heading sections
 ### Home
 ### About

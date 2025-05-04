@@ -3,7 +3,10 @@
 professional, excellence, luxury brand, and bespoke product offering.
 ## References
 [Blackstone](https://www.blackstone.com/) <br>
-[ARUP](https://www.arup.com/)
+[ARUP](https://www.arup.com/) <br>
+[Sequoia](https://www.sequoiacap.com)
+[Carta](https://carta.com/sg/en/)
+[Pulley](https://pulley.com)
 ## Font
 Heading 1: Book Antiqua (Libre Baskerville - Google Fonts) <br>
 Heading 2: Segoe UI (Roboto - Google Fonts) <br>

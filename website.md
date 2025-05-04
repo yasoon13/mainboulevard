@@ -27,6 +27,9 @@ Accent color 7: Peach (FFC49B) `FINAL`<br>
 6. Careers `to be added in later phase`
 7. News `to be added in later phase`
 8. Contact
+## Taglines that capture audience
+mainboulevard helps build the company you always wanted
+
 ## Heading sections
 ### Home
 ### About

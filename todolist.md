@@ -10,6 +10,7 @@
 7. ~Create excel template 2 - IT startup operating forecast model~ ✅
 8. Create excel template 2 - pitch deck
 9. Create list of templates created with codes
-10. Create mainboulevard pitch deck
+10. Create mainboulevard pitch deck #1
 11. Create mainboulevard annual 3-statement model (actual values)
 12. Create Articles of Association or Memorandum of Association
+13. Create mainboulevard brand manual guide

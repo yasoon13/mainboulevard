@@ -1,5 +1,7 @@
 # Glossary of terms used in the financial modeling and startup world
 ### Angel Investor
+### Articles of Association
+[Investopedia - Articles of Association](https://www.investopedia.com/terms/a/articles-of-association.asp)
 ### Average Revenue per User (ARPU)
 ### Aqui Hired
 ### Aquisition

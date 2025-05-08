@@ -2,6 +2,10 @@
 ### Angel Investor
 ### Articles of Association
 [Investopedia - Articles of Association](https://www.investopedia.com/terms/a/articles-of-association.asp)
+### Articles of Incorporation
+[Investopedia - Articles of Incorporation](https://www.investopedia.com/terms/a/articlesofincorporation.asp)
+### Articles of Organization
+`USA` Articles of Organization are legal documents used to establish a limited liability company (LLC) at the state level.
 ### Average Revenue per User (ARPU)
 ### Aqui Hired
 ### Aquisition

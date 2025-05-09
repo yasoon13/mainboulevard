@@ -67,6 +67,8 @@ Monthly Active Users (MAU)
 ### SAAS
 ### Seed Fund
 ### Series of Funding
+### Share Capital
+[Invesopedia - What Is Share Capital? How It Works and Types](https://www.investopedia.com/terms/s/sharecapital.asp)
 ### Soonicorn
 ### Sweat Equity
 ### Term Sheet

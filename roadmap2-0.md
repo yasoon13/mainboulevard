@@ -8,7 +8,7 @@ Become the Berkshire Hathaway of Pakistan
 ## Values
 ## Pathway
 ### Step 1 - BerkshireHathaway
-Investor of publically traded companies and other publically available financial instruments
+Investor of publically traded companies and other publically available financial instruments <br>
 Share value added services: 1) financial modeling; 2) business plan; 3) pitch decks
 ### Step 2 - Blackstone
 Investor of private equity markets

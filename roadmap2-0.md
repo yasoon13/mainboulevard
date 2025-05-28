@@ -6,6 +6,10 @@ Empowering lives through financial freedom
 ## Mission
 Become the Berkshire Hathaway of Pakistan
 ## Values
+1) Excellence
+2) Creativity
+3) Respect
+4) Sustainability
 ## Pathway
 ### Step 1 - BerkshireHathaway
 Investor of publically traded companies and other publically available financial instruments <br>

@@ -14,4 +14,4 @@
 11. Create mainboulevard annual 3-statement model (actual values)
 12. Create Articles of Association or Memorandum of Association
 13. Create mainboulevard brand manual guide
-14. ~Create mainboulevard investment policy (version 1)~
+14. ~Create mainboulevard investment policy (version 1)~ ✅

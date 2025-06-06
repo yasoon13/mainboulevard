@@ -64,6 +64,8 @@ Monthly Active Users (MAU)
 ### Retention
 ### Revenue Model
 ### Run Rate
+### Runway
+Runway is the amount of time a company or project can continue to operate or exist before it runs out of resources, usually financial resources. It’s often used in startups, early-stage companies, and projects that are not yet profitable but are burning cash to fund their operations and growth.
 ### SAAS
 ### Seed Fund
 ### Series of Funding

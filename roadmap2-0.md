@@ -19,7 +19,7 @@ Share value added services: <br>
 3) Business plan development;
 4) Pitch decks development;
 5) Corporate structure development; and
-6) Book keeping.
+6) ~Book keeping.~
 ### Step 2 - Blackstone
 Investor of private equity markets
 ### Step 3 - Sequoia

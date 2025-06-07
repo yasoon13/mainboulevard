@@ -23,3 +23,10 @@
 - Do fewer things at once.
 - Work at natural pace.
 - Obsess over quality.
+## Six Forces of Failure - [Product Flops and Collapsed Corporations: Business Lessons from the Failure Museum](https://www.youtube.com/watch?v=JycpDC_qYLw)
+- Product market fit
+- Team
+- Financial management
+- Timing
+- Competition
+- Customer success

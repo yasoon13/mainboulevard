@@ -16,3 +16,4 @@
 13. Create mainboulevard brand manual guide
 14. ~Create mainboulevard investment policy (version 1)~ ✅
 15. ~Create instagram account~ ✅
+16. ~Create UPWORK account~ ✅

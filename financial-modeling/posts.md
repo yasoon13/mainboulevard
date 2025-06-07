@@ -12,3 +12,6 @@ Take a company's annual report
 - Interesting highlights about the company (short)
 - Company announcements (short)
 - Glossary of Terms (short)
+## Post 1
+The most important thing to learn is how to value a business. It is also the toughest to explain.
+~ Warren Buffet

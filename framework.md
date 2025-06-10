@@ -38,4 +38,4 @@
 - Start with public traded companies
 - get money from financial services and invest
 ### What is the end state?
-- A publically traded company of great excellence
+- A publically traded company of great excellence. A mixture of Berkshire Hathaway, Sequoia, and Blackstone

@@ -18,6 +18,9 @@ Posts can be divided into following:
 - Investor quotations
 - Pakistan economic and financial figures and facts
 ## Posts
+### Post 3
+Execution beats expertise
+~ Tony Xu, CEO Doordash
 ### Post 2
 Pakistan Budget 2025-26
 GDP growth FY-2025 (actual): 2.7%

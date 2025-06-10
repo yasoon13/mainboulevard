@@ -30,3 +30,12 @@
 - Timing
 - Competition
 - Customer success
+## Commander's intent - [Commander's intent enables great leadership](https://www.youtube.com/watch?v=RvUW2-oUOGo)
+### Why I am doing this?
+- I want to be the greatest investor of all time
+### What do I want?(expectations)
+- Learn the art and science of investing
+- Start with public traded companies
+- get money from financial services and invest
+### What is the end state?
+- A publically traded company of great excellence

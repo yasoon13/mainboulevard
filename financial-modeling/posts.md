@@ -18,6 +18,9 @@ Posts can be divided into following:
 - Investor quotations
 - Pakistan economic and financial figures and facts
 ## Posts
+### Post 4
+User vs Customer
+benefit vs pay
 ### Post 3
 Execution beats expertise
 ~ Tony Xu, CEO Doordash

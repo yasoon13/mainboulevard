@@ -10,3 +10,6 @@
 
 ## Slidebean videos
 [Financial Modeling for Startups: Explained - Startups 101](https://www.youtube.com/watch?v=Ye7VeofnBfc)
+
+## Startup dev videos
+[Harvard Innovation Labs - Value Props: Create a Product People Will Actually Buy](https://www.youtube.com/watch?v=q8d9uuO1Cf4)
